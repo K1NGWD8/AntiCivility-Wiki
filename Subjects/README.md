@@ -8,13 +8,15 @@ Archived records of individuals connected to incidents within Velorin.
 
 ### Seekers
 
-Profiles of unidentified individuals involved in major incidents.
+Individuals connected to major incidents involving unknown motives and identities.
+
+- [Nikolai Orsen](Nikolai-Orsen.md)
 
 ---
 
 ## Database Status
 
-Active investigations are updated as new information becomes available.
+Additional subject files will be added as investigations continue.
 
 ---
 
