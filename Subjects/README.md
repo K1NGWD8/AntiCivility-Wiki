@@ -11,6 +11,7 @@ Archived records of individuals connected to incidents within Velorin.
 Individuals connected to major incidents involving unknown motives and identities.
 
 - [Nikolai Orsen](Nikolai-Orsen.md)
+- [Viktor Karev](Viktor-Karev.md)
 
 ---
 
